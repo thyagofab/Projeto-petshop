@@ -13,26 +13,29 @@ O objetivo do projeto foi criar um site de pet shop utilizando conhecimentos bá
 
 O cabeçalho do site exibe o logotipo do Petshop e conta com vários botões de navegações.
 
-![Captura de tela 2023-11-07 162647](https://github.com/thyagofab/Projeto-petshop/assets/143232809/b11c96a9-9472-4dd1-b40d-a7b963a174b2)
+![Captura de tela 2023-11-07 162647](https://github.com/thyagofab/Projeto-petshop/assets/143232809/90ec69cf-9c5d-4156-9520-42d73536108a)
+
 
 * **Informações do Pet shop**;
 
 O corpo do meu site descreve os serviços oferecidos pelo pet shop aos clientes, fornecendo informações detalhadas sobre cada um deles.
 
-![Captura de tela 2023-11-07 162839](https://github.com/thyagofab/Projeto-petshop/assets/143232809/1efe8557-506b-40b8-91a3-b10626b1b011)
-![Captura de tela 2023-11-07 162910](https://github.com/thyagofab/Projeto-petshop/assets/143232809/c1f651f9-8a5a-4c9e-93b4-8b8518d73d79)
+![Captura de tela 2023-11-07 162839](https://github.com/thyagofab/Projeto-petshop/assets/143232809/90a61f8a-1a08-42ff-a3e4-13c6780bd9ee)
+
+![Captura de tela 2023-11-07 162910](https://github.com/thyagofab/Projeto-petshop/assets/143232809/a238a625-db1a-436d-9ad5-6bf47793d410)
 
 * **Local de dúvidas**;
 
 No site, há uma seção dedicada às dúvidas comuns que os visitantes possam ter. Ao clicar em uma opção específica, o site apresenta informações respondidas à dúvida escolhida, proporcionando uma resolução clara e eficaz para as questões dos usuários.
 
-![Captura de tela 2023-11-07 163439](https://github.com/thyagofab/Projeto-petshop/assets/143232809/e6e49fb6-84fa-43b8-9838-276432dc5008)
+![Captura de tela 2023-11-07 163439](https://github.com/thyagofab/Projeto-petshop/assets/143232809/e0499ec5-3680-4164-b1ad-c789a3dbf6c2)
 
-![Captura de tela 2023-11-07 163627](https://github.com/thyagofab/Projeto-petshop/assets/143232809/f00ae7cd-2214-4161-979b-936124868718)
+![Captura de tela 2023-11-07 163627](https://github.com/thyagofab/Projeto-petshop/assets/143232809/bff8132e-b969-4fea-bec1-2be3b633fe79)
 
 * **Rodapé do site**;
 
 O rodapé do site exibe informações de contato do pet shop e sua localização, além de links de acesso rápido. A diferenciação de cor destina-se a destacar visualmente esses links, tornando-os mais proeminentes e de fácil identificação para os visitantes.
 
-![Captura de tela 2023-11-07 164010](https://github.com/thyagofab/Projeto-petshop/assets/143232809/4ebeefd3-88a9-45a8-9db4-77da3c1c4cb1)
+![Captura de tela 2023-11-07 164010](https://github.com/thyagofab/Projeto-petshop/assets/143232809/4aad858d-7792-4905-a7f9-8bcfa81e2439)
+
 
